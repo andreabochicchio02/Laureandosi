@@ -1,0 +1,91 @@
+body{
+    padding: 0;
+    font-family: "Segoe UI", Tahoma, sans-serif;
+}
+
+.titolo{
+    text-align: center;
+    margin: 0;
+
+    font-size: 16px;
+}
+
+
+#intestazione{
+    width: 100%;
+    border: 1px solid black;
+
+    margin-bottom: 10px;
+}
+
+#intestazione tr td {
+    padding-bottom: 0;
+    font-size: 13px;
+}
+
+#intestazione tr td:nth-child(1) {
+    width: 25%;
+}
+
+
+#carriera{
+    font-weight: 100;
+    border-collapse: collapse;
+    width: 100%;
+
+    margin-bottom: 13px;
+}
+
+#carriera td, #carriera th {
+    font-weight: normal;
+    border: 1px solid black;
+    text-align: center;
+}
+
+#carriera th {
+    font-size: 13px;
+}
+
+#carriera td{
+    font-size: 11px;
+}
+
+#carriera tr td:nth-child(1) {
+    text-align: left;
+}
+
+
+#report {
+    width: 100%;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+
+#report tr td {
+    padding-bottom: 0;
+    font-size: 13.3px;
+}
+
+#report tr td:nth-child(1) {
+    width: 40%;
+}
+
+
+
+#simulazione{
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13.3px;
+
+    margin-bottom: 25px;
+}
+
+#simulazione td, #simulazione th {
+    font-weight: normal;
+    border: 1px solid black;
+    text-align: center;
+}
+
+p {
+    font-size: 12.6px;
+}

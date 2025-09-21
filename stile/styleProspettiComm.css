@@ -1,0 +1,24 @@
+.top{
+    text-align: center;
+    font-size: 13px;
+}
+
+#elenco{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#elenco th, #elenco td{
+    width: 25%;
+    border: 1px solid black;
+    text-align: center;
+}
+
+#elenco th{
+    font-weight: normal;
+    font-size: 14.5px;
+}
+
+#elenco td{
+    font-size: 11px;
+}

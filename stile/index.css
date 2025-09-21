@@ -1,0 +1,139 @@
+body {
+    font-family: Arial;
+    font-weight: bold;
+
+    height: 100vh;
+    overflow-y: hidden;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main{
+    box-sizing: border-box;
+    border: 3px solid #2D4F8C;
+    padding: 2em;
+
+    background: #DEEAF6;
+    color: #2E74B6;
+
+    height: 65%;
+    width: 90%;
+}
+
+main > h1 {
+    text-align: center;
+    font-size: 42px;
+    margin: 0 0 1em 0;
+}
+
+form{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: normal;
+
+    height: 80%;
+}
+
+label{
+    font-size: x-large;
+}
+
+
+#left, #center, #right{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+#left, #right{
+    width: 20%;
+    padding: 0 5% 0 5%;
+}
+
+/*Stile parte sinistra*/
+#left{
+    height: 60%;
+}
+
+select, input[type="date"]{
+    color: #2E74B6;
+    border: 3px solid #2D4F8C;
+}
+
+select{
+    margin-bottom: 12%;
+
+    font-size: large;
+    padding: 0.5em;
+    font-style: italic;
+}
+
+input[type="date"]{
+    font-size: x-large;
+    padding: 0.5em;
+}
+
+
+/*Stile parte centrale*/
+#center{
+    height: 90%;
+    width: 40%;
+    padding: 0 4em 0 4em;
+}
+
+textarea{
+    height: 90%;
+    border: 3px solid #2D4F8C;
+
+    font-size: large;
+}
+
+
+/*Stile parte destra*/
+#right{
+    height: 100%;
+    /*margin-top: 0.6em;*/
+}
+
+#right>button {
+    font-weight: bold;
+    font-size: x-large;
+    padding: 0.5em;
+
+    color: #2E74B6;
+    background: #DEEAF6;
+    border: none;
+    box-shadow:
+        10px 0 10px -5px grey inset,
+        0 15px 10px -5px white inset,
+        -10px 0 10px -5px grey inset,
+        0 -5px 10px 0 grey inset;
+
+    cursor: pointer;
+}
+
+#right>a{
+    font-size: x-large;
+
+    text-align: center;
+    text-decoration: underline;
+
+    cursor: pointer;
+}
+
+#right>p{
+    font-size: larger;
+    font-style: italic;
+    text-align: center;
+
+    color: #C45810;
+}
+
+
+
+
+
+

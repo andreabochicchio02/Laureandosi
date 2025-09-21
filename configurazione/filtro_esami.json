@@ -1,0 +1,122 @@
+{
+  "T. Ing. Biomedica": {
+    "*": {
+      "esami-non-avg": [
+        "PROVA DI LINGUA INGLESE (B1)",
+        "PROVA DI LINGUA INGLESE B2",
+        "LIBERA SCELTA PER RICONOSCIMENTI"
+      ],
+      "esami-non-curr": [
+        "PROVA FINALE",
+        "TEST DI VALUTAZIONE DI INGEGNERIA"
+      ]
+    }
+  },
+
+  "T. Ing. Elettronica": {
+    "*": {
+      "esami-non-avg": [
+        "PROVA DI LINGUA INGLESE (B1)",
+        "PROVA DI LINGUA INGLESE B2",
+        "LIBERA SCELTA PER RICONOSCIMENTI"
+      ],
+      "esami-non-curr": [
+        "PROVA FINALE",
+        "TEST DI VALUTAZIONE DI INGEGNERIA"
+      ]
+    }
+  },
+
+  "T. Ing. Informatica": {
+    "*": {
+      "esami-non-avg": [
+        "PROVA DI LINGUA INGLESE (B1)",
+        "PROVA DI LINGUA INGLESE B2",
+        "LIBERA SCELTA PER RICONOSCIMENTI"
+      ],
+      "esami-non-curr": [
+        "PROVA FINALE",
+        "TEST DI VALUTAZIONE DI INGEGNERIA"
+      ]
+    }
+  },
+
+  "T. Ing. delle Telecomunicazioni": {
+    "*": {
+      "esami-non-avg": [
+        "PROVA DI LINGUA INGLESE (B1)",
+        "PROVA DI LINGUA INGLESE B2",
+        "LIBERA SCELTA PER RICONOSCIMENTI"
+      ],
+      "esami-non-curr": [
+        "PROVA FINALE",
+        "TEST DI VALUTAZIONE DI INGEGNERIA"
+      ]
+    }
+  },
+
+  "M. Ing. Biomedica": {
+    "*": {
+      "esami-non-avg": [],
+      "esami-non-curr": [
+        "PROVA FINALE"
+      ]
+    }
+  },
+
+  "M. Ing. Elettronica": {
+    "*": {
+      "esami-non-avg": [],
+      "esami-non-curr": [
+        "PROVA FINALE"
+      ]
+    }
+  },
+
+  "M. Computer Engineering": {
+    "*": {
+      "esami-non-avg": [],
+      "esami-non-curr": [
+        "PROVA FINALE"
+      ]
+    }
+  },
+
+  "M. Artificial Intelligence and Data Enginering": {
+    "*": {
+      "esami-non-avg": [],
+      "esami-non-curr": [
+        "PROVA FINALE"
+      ]
+    }
+  },
+
+  "M. Cybersecurity": {
+    "*": {
+      "esami-non-avg": [
+        "TESI"
+      ],
+      "esami-non-curr": [
+        "PROVA FINALE"
+      ]
+    }
+  },
+
+  "M. Ing. Robotica e della Automazione": {
+    "*": {
+      "esami-non-avg": [],
+      "esami-non-curr": [
+        "PROVA FINALE"
+      ]
+    }
+  },
+
+  "M. Ing. delle Telecomunicazioni": {
+    "*": {
+      "esami-non-avg": [],
+      "esami-non-curr": [
+        "PROVA FINALE"
+      ]
+    }
+  }
+}

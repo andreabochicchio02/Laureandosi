@@ -1,0 +1,76 @@
+{
+
+  "0" : {
+    "matricola" : "123456",
+    "cdl" : "T. Ing. Informatica",
+    "nome" : "GIANLUIGI",
+    "cognome" : "DONNARUMMA",
+    "email_ate": "nome.cognome@studenti.unipi.it",
+    "data_appello": "2023-01-04",
+    "bonus" : "NO",
+    "media_pesata" : 23.655,
+    "crediti_media" : 174,
+    "crediti_curriculari" : 177,
+    "media_pesata_inf" : 23.667,
+    "simulazione": [89.965, 90.965, 91.965, 92.965, 93.965, 94.965, 95.965]
+  },
+
+  "1" : {
+    "matricola" : "234567",
+    "cdl" : "M. Ing. Elettronica",
+    "nome" : "ALESSANDRO",
+    "cognome" : "BASTONI",
+    "email_ate": "nome.cognome@studenti.unipi.it",
+    "data_appello": "2023-01-04",
+    "media_pesata" : 24.559,
+    "crediti_media" : 102,
+    "crediti_curriculari" : 102,
+    "simulazione": [94.3, 94.9, 95.5, 96.1, 96.7, 97.3, 97.9, 98.5, 99.1, 99.7, 100.3, 100.9 , 101.5 ]
+  },
+
+  "2" : {
+    "matricola" : "345678",
+    "cdl" : "T. Ing. Informatica",
+    "nome" : "NICCOLO",
+    "cognome" : "BARELLA",
+    "email_ate": "nome.cognome@studenti.unipi.it",
+    "data_appello": "2023-01-04",
+    "bonus" : "SI",
+    "media_pesata" : 25.564,
+    "crediti_media" : 165,
+    "crediti_curriculari" : 177,
+    "media_pesata_inf" : 25.75,
+    "simulazione": [95.692, 96.692, 97.692, 98.692, 99.692, 100.692, 101.692]
+  },
+
+  "3" : {
+    "matricola" : "456789",
+    "cdl" : "M. Ing. delle Telecomunicazioni",
+    "nome" : "MATTEO",
+    "cognome" : "POLITANO",
+    "email_ate": "nome.cognome@studenti.unipi.it",
+    "data_appello": "2023-01-04",
+    "media_pesata" : 32.625,
+    "crediti_media" : 96,
+    "crediti_curriculari" : 96,
+    "simulazione": [120.625, 121.625, 122.625, 123.625, 124.625, 125.625, 126.625, 127.625, 128.625, 129.625, 130.625]
+  },
+
+  "4" : {
+    "matricola" : "567890",
+    "cdl" : "M. Cybersecurity",
+    "nome" : "FRANCESCO",
+    "cognome" : "ACERBI",
+    "email_ate": "nome.cognome@studenti.unipi.it",
+    "data_appello": "2023-01-04",
+    "media_pesata" : 24.882,
+    "crediti_media" : 102,
+    "crediti_curriculari" : 120,
+    "simulazione": [92.234, 93.234, 94.234, 95.234, 96.234, 97.234, 98.234]
+  }
+
+
+
+
+}
+
